@@ -5,5 +5,5 @@ plugins:
 title: Dan Duran
 description: My Purpose
 
-show_downloads: "false"
+show_downloads: false
 google_analytics: ID
